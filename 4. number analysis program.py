@@ -16,7 +16,7 @@ for i in range(20):
 lowest=min(arr)
 highest=max(arr)
 total=sum(arr)
-average=total/12
+average=total/20
 print("the lowest number is: ",lowest)
 print("the highest number is: ",highest)
 print("the total of all numbers: ",total)
