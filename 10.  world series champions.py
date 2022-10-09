@@ -20,6 +20,7 @@ file1.close()
 name_of_team=input("Enter the name of team: ")
 name_of_team=name_of_team.title()
 no_of_times=winners_list.count(name_of_team)
+
 if no_of_times>0:
     years=[]
     j=0
